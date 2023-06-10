@@ -1,7 +1,7 @@
 # FizzBuzz-problem
 A program that takes a user’s input and prints the numbers from one to the number the user entered. However, for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
 
-To futher simplify the solution to this problem, the program allows the user to enter a number, print each number between one and the number the user entered, but for numbers that divide by 3 without a remainder print `Fizz` instead. For numbers that divide by 5 without a remainder print `Buzz` and finally for numbers that divide by both 3 and 5 without a remainder print FizzBuzz.
+To further simplify the solution to this problem, the program allows the user to enter a number, print each number between one and the number the user entered, but for numbers that divide by 3 without a remainder print `Fizz` instead. For numbers that divide by 5 without a remainder print `Buzz` and finally for numbers that divide by both 3 and 5 without a remainder print FizzBuzz.
 
 # Plan
 A window pop up will appear on the user's window prompting him/her to enter a desired number, the desired result will be displayed on the console where the user can see the outcome of the program.
